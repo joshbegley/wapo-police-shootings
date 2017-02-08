@@ -1,2 +1,2 @@
-Automatically updates whenever the Washington Post adds new data to their [Fatal Force](https://www.washingtonpost.com/graphics/national/police-shootings-2016/) project. Pulls from a CSV file powering their interactive. A mirror of the endpoint lives here: 
+Automatically updates whenever The Washington Post adds new data to their [Fatal Force](https://www.washingtonpost.com/graphics/national/police-shootings-2016/) project. Pulls from a CSV file powering their interactive. A mirror of the endpoint lives here: 
 > [https://raw.githubusercontent.com/joshbegley/wapo-police-shootings/master/fatal-police-shootings-data.csv](https://raw.githubusercontent.com/joshbegley/wapo-police-shootings/master/fatal-police-shootings-data.csv)
