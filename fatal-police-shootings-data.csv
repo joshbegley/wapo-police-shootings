@@ -4,13 +4,13 @@
  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
   <head>
-    <title>503 Connection timed out</title>
+    <title>503 Backend is unhealthy</title>
   </head>
   <body>
-    <h1>Error 503 Connection timed out</h1>
-    <p>Connection timed out</p>
+    <h1>Error 503 Backend is unhealthy</h1>
+    <p>Backend is unhealthy</p>
     <h3>Guru Mediation:</h3>
-    <p>Details: cache-jfk8135-JFK 1515578403 251054766</p>
+    <p>Details: cache-jfk8135-JFK 1515579002 253109491</p>
     <hr>
     <p>Varnish cache server</p>
   </body>
